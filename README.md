@@ -10,7 +10,7 @@ My name is [Fu] or you can call me [Phú] or [Andrew], an IT student of FPT Univ
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-![LuongFu 's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![LuongFu 's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)
 
 ## 🌟 Highlights
