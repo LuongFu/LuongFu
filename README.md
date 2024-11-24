@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm [Lương Minh Phú]!
 
-My name is [Fu] or you can call me [Phú] or [Andrew], an IT student of FPT University and a technology enthusiast, especially about games.
+My name is [Fu] or you can call me [Phú] or [Andrew Luong], an IT student of FPT University and a technology enthusiast, especially about games and web graphics.
 
 ## 🚀 Tech Stack
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
