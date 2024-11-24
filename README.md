@@ -11,7 +11,8 @@ My name is [Fu] or you can call me [Phú] or [Andrew], an IT student of FPT Univ
 
 ## 📊 GitHub Stats
 ![LuongFu 's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuongFu&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuongFu&layout=compact&theme=radical)
+
 
 ## 🌟 Highlights
 - 🔭 I’m currently working on RPG 2D Games by Java (Almost done!)
