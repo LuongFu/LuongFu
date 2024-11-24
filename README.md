@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm [Lương Minh Phú]!
 
-My name is [Fu] or you can call me [Phú], an IT student of FPT University, and a technology enthusiast, especially .
+My name is [Fu] or you can call me [Phú] or [Andrew], an IT student of FPT University and a technology enthusiast, especially about games.
 
 ## 🚀 Tech Stack
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -18,4 +18,4 @@ My name is [Fu] or you can call me [Phú], an IT student of FPT University, and 
 - 🌱 I’m currently learning NodeJs, React, Flutter, JavaScript, HTML, CSS...
 
 ## 📫 How to reach me
-- [Facebook][(https://facebook.com/your-profile)](https://www.facebook.com/FuHocFPT/)
+- [Facebook][(https://www.facebook.com/FuHocFPT/)]
