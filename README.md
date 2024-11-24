@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there, I'm [Your Name]!
 
-<!--
-**LuongFu/LuongFu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is [Fu] or you can call me [Phú], an IT student of FPT University, and a technology enthusiast, especially .
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)
+
+## 🌟 Highlights
+- 🔭 I’m currently working on RPG 2D Games by Java (Almost done!)
+- 🌱 I’m currently learning NodeJs, React, Flutter, JavaScript, HTML, CSS...
+
+## 📫 How to reach me
+- [Facebook][(https://facebook.com/your-profile)](https://www.facebook.com/FuHocFPT/)
