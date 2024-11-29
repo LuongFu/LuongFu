@@ -11,7 +11,7 @@ https://github-profile-trophy.vercel.app/?username=LuongFu
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
+https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
 
 ## 📊 GitHub Stats
 ![LuongFu 's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuongFu&show_icons=true&theme=radical)
