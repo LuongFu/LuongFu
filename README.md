@@ -23,4 +23,5 @@ https://github-profile-trophy.vercel.app/?username=LuongFu
 - 🌱 I’m currently learning NodeJs, React, Flutter, JavaScript, HTML, CSS...
 - Actually I'm verry hate Java so much!!!
 ## 📫 How to reach and DM me
+![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 - [Facebook][(https://www.facebook.com/FuHocFPT/)]
