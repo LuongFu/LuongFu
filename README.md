@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm [Lương Minh Phú]!
 
 My name is [Fu] or you can call me [Phú] or [Andrew Luong], an IT student of FPT University and a technology enthusiast, especially about games and web graphics.
-
+https://github-profile-trophy.vercel.app/?username=LuongFu
 ## 🚀 Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
