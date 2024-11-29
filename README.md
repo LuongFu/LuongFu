@@ -19,7 +19,7 @@ https://github-profile-trophy.vercel.app/?username=LuongFu
 
 
 ## 🌟 Highlights
-- 🔭 I’m currently working on RPG 2D Games by Java (Almost done!)
+- 🔭 I’m currently working on RPG 2D Games by Java (Done!)
 - 🌱 I’m currently learning NodeJs, React, Flutter, JavaScript, HTML, CSS...
 - Actually I'm verry hate Java so much!!!
 ## 📫 How to reach and DM me
