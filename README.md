@@ -18,7 +18,7 @@ https://github-profile-trophy.vercel.app/?username=LuongFu
 ## 📊 GitHub Stats
 ![LuongFu 's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuongFu&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuongFu&layout=compact&theme=radical)
-![Editor Config](https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000)
+
 
 ## 🌟 Highlights
 - 🔭 I’m currently working on RPG 2D Games by Java (Done!)
@@ -31,7 +31,8 @@ https://github-profile-trophy.vercel.app/?username=LuongFu
 ![Valorant](https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white)
 ## 📫 How to reach and DM me
 ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) lmp14589@gmail.com
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)fu#1352
-![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)[(https://www.facebook.com/FuHocFPT/)]
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) fu#1352
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) https://www.facebook.com/FuHocFPT/
 ## Donate me here
+![Editor Config](https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000)
 ![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
