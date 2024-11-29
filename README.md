@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm [Lương Minh Phú]!
 
 My name is [Fu] or you can call me [Phú] or [Andrew Luong], an IT student of FPT University and a technology enthusiast, especially about games and web graphics.
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div>
 https://github-profile-trophy.vercel.app/?username=LuongFu
 ## 🚀 Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
