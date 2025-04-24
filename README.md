@@ -1,7 +1,3 @@
-# 👋 Hi there, I'm [Lương Minh Phú]!
-
-My name is [Fu] 
-
 <h1>Hi 👋, I'm Fu or you can call me Phú or Andrew Luong, an IT student of FPT University and a technology enthusiast, especially about games and web graphics.</h1>
 <p>A fresher coder full-stack developer from Vietnam.</p>
 <h2>🚀 Languages and Tools I Use</h2>
