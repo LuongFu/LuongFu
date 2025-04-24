@@ -18,10 +18,10 @@
 <p><a target="_blank" href="https://www.facebook.com/https://www.facebook.com/FuHocFPT/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/fu_ngu_05/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://www.youtube.com/https://www.youtube.com/@fuYTPlayz" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Fu&show_icons=true&locale=en" alt="Fu" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fu&" alt="Fu" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fu&show_icons=true&locale=en&layout=compact" alt="Fu" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fu" alt="Fu" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=LuongFu&show_icons=true&locale=en" alt="Fu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LuongFu&" alt="Fu" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuongFu&show_icons=true&locale=en&layout=compact" alt="Fu" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LuongFu" alt="Fu" /></a></p>
 
 
 ## 🌟 Highlights
