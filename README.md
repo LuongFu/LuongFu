@@ -21,11 +21,8 @@
 
   <table style=" display: flex; width:100%; text-align:center;">
     <tr>
-      <th style="width:50%;">General Secretary at MiraiJC - Japanese Club (2024-2025)<br><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo Mirai-JC.jpg" alt="Club Image" style="width: 200px;">
-        
-      </th>
-      <th style="width:50%;">Blue belt at FDN - FPT Nunchaku Club (2023-2024)<br><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo FDN.jpg" alt="Club Image" style="width: 200px;">
-      </th>
+      <td style="width:50%;">General Secretary at MiraiJC - Japanese Club (2024-2025)<br><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo Mirai-JC.jpg" alt="Club Image" style="width: 200px;"></td>
+      <td style="width:50%;">Blue belt at FDN - FPT Nunchaku Club (2023-2024)<br><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo FDN.jpg" alt="Club Image" style="width: 200px;"></td>
     </tr>
   </table>
        
