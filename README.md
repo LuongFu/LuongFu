@@ -19,9 +19,9 @@
 
   ## 🔛🔝 Club Activities
 
-  <table style=" display: flex; width:100%; text-align:center;">
+  <table style=" display: flex; width:100%; text-align:center;" justify-content:center;>
     <tr>
-      <td style="width:50%;">General Secretary at MiraiJC - Japanese Club (2024-2025)<br><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo Mirai-JC.jpg" alt="Club Image" style="width: 200px;"></td>
+      <td style="width:50%;">General Secretary at MiraiJC - FPT Japanese Club (2024-2025)<br><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo Mirai-JC.jpg" alt="Club Image" style="width: 200px;"></td>
       <td style="width:50%;">Blue belt at FDN - FPT Nunchaku Club (2023-2024)<br><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo FDN.jpg" alt="Club Image" style="width: 200px;"></td>
     </tr>
   </table>
