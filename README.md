@@ -7,7 +7,7 @@
   ## 🌠 About me 
   <table style="width:100%; text-align:center;">
     <tr>
-      <td style="width:50%;"><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/clove.gif" alt="Profile Image" style="width:200px;"></td>
+      <td style="width:50%;"><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Teto-kasane-nig.gif" alt="Profile Image" style="width:200px;"></td>
       <td style="width:50%;">
         <h2>Luong Minh Phu</h2>
           <p>🍀 A programmer, software architect. Likes reading manga, listening to music and playing games (Open World, ARPG Games, Turnbase).</p>
@@ -52,7 +52,7 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=LuongFu&show_icons=true&count_private=true&&theme=dracula&hide_border=true&bg_color=2c1d2c"/>
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuongFu&show_icons=true&count_private=true&&theme=dracula&hide_border=true&bg_color=2c1d2c&layout=compact"/></p>
 
-  ## 🍀 Github Commits
+  ## 🍀 Github Contributions
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LuongFu/LuongFu/blob/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/LuongFu/LuongFu/blob/output/github-contribution-grid-snake.svg">
