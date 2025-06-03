@@ -17,7 +17,7 @@
     </tr>
   </table>
 
-  ## Club Activities
+  ## 🔛🔝 Club Activities
 
   <table style=" display: flex; width:100%; text-align:center;">
     <tr>
