@@ -18,12 +18,19 @@
   </table>
 
   ## Club Activities
-  <table style="width:100%; text-align:center; margin-left: 33%">
-    <tr>
-      <td style="width:50%;">General Secretary at MiraiJC - Japanese Club (2024-2025)<br><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo Mirai-JC.jpg" alt="Club Image" style="width: 200px;"></td>
-      <td style="width:50%;">Blue belt at FDN - FPT Nunchaku Club (2023-2024)<br><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo FDN.jpg" alt="Club Image" style="width: 200px;"></td>
-    </tr>
-  </table>
+  <div  style="width:100%; text-align:center; margin-left: 33%">
+    <div style="width:50%;">General Secretary at MiraiJC - Japanese Club (2024-2025)<br><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo Mirai-JC.jpg" alt="Club Image" style="width: 200px;">
+    
+  </div>
+  <div style="width:50%;">Blue belt at FDN - FPT Nunchaku Club (2023-2024)<br><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo FDN.jpg" alt="Club Image" style="width: 200px;">>
+    
+  </div>
+  </div>
+  <table>
+    
+       
+       
+    
 
   ## ✨ Facts 
   My favorite quote: "Life is not an option. It will determine who you are."
