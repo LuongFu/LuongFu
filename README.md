@@ -2,7 +2,7 @@
 
 # Hello World!, I'm Fu, a newbie Vietnamese Fullstack Developer 👋🏼:
 🛜 currently working on my own <br>👨🏼‍🎓 an IT student of FPT University and a technology enthusiast<br>👨🏼‍💻 working as a student developer since 2023 <br>
-#Language:
+- Language Level: <br>
 ![1f1fb_1f1f3](https://github.com/user-attachments/assets/4a7c8c45-4598-4919-802d-0d266587460b) Vietnamese (Expert Level) <br>
 ![1f1ec_1f1e7](https://github.com/user-attachments/assets/ccfa6929-e4cb-434a-a2a9-4ec4c151449c) English (Intermidiate Level) <br>
 ![1f1ef_1f1f5](https://github.com/user-attachments/assets/2303ac41-da5d-4544-a447-8d68beb9a6ed) Japanese (Basic Level) <br>
