@@ -18,7 +18,7 @@
   </table>
 
   ## Club Activities
-  <div  style="width:100%; text-align:center; margin-left: 33%">
+  <div  style=" display: flex; width:100%; text-align:center; margin-left: 33%">
     <div style="width:50%;">General Secretary at MiraiJC - Japanese Club (2024-2025)<br><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo Mirai-JC.jpg" alt="Club Image" style="width: 200px;">
     
   </div>
