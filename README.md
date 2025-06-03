@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="/banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Fu, a newbie Vietnamese Fullstack Developer 👋🏼:
 🛜 currently working on my own <br>👨🏼‍🎓 an IT student of FPT University and a technology enthusiast<br>👨🏼‍💻 working as a student developer since 2023 <br>
