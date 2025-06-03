@@ -9,7 +9,7 @@
     <tr>
       <td style="width:50%;"><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/ki_yeu.png" alt="Profile Image" style="width:200px;"></td>
       <td style="width:50%;">
-        <h2>Luong Phu</h2>
+        <h2>Luong Minh Phu</h2>
           <p>🍀 A programmer, software architect. Likes reading manga, listening to music and playing games (Open World, ARPG Games, Turnbase).</p>
           <p>🍀 My current age: 18.6.</p>
           <p>🍀Personality: He/Him.</p>
@@ -18,7 +18,7 @@
   </table>
 
   ## Club Activities
-  <table style="width:100%; text-align:center; justify-content:center">
+  <table style="width:100%; text-align:center; margin-left: 33%">
     <tr>
       <td style="width:50%;">General Secretary at MiraiJC - Japanese Club (2024-2025)<br><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo Mirai-JC.jpg" alt="Club Image" style="width: 200px;"></td>
       <td style="width:50%;">Blue belt at FDN - FPT Nunchaku Club (2023-2024)<br><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo FDN.jpg" alt="Club Image" style="width: 200px;"></td>
