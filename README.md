@@ -21,9 +21,9 @@
 
   <table style=" display: flex; width:100%; text-align:center;">
     <tr>
-      <td style="width:50%;">General Secretary at MiraiJC - FPT Japanese Club (2024-2025)<br><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo Mirai-JC.jpg" alt="Club Image" style="width: 200px;"></td>
-      <td style="width:50%;">Blue belt at FDN - FPT Nunchaku Club (2023-2024)<br><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo FDN.jpg" alt="Club Image" style="width: 200px;"></td>
-      <td style="width:50%;">Member at FU-DEVER (2024-recent)<br><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo FU-DEVER.jpg" alt="Club Image" style="width: 200px;"></td>
+      <td style="width:33.3%;">General Secretary at MiraiJC - FPT Japanese Club (2024-2025)<br><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo Mirai-JC.jpg" alt="Club Image" style="width: 200px;"></td>
+      <td style="width:33.3%;">Blue belt at FDN - FPT Nunchaku Club (2023-2024)<br><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo FDN.jpg" alt="Club Image" style="width: 200px;"></td>
+      <td style="width:33.3%;">Member at FU-DEVER (2024-recent)<br><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo FU-DEVER.jpg" alt="Club Image" style="width: 200px;"></td>
     </tr>
   </table>
        
