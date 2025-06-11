@@ -11,8 +11,8 @@
       <td style="width:50%;">
         <h2>Luong Minh Phu</h2>
           <p>🍀 A programmer, software architect. Likes reading manga, listening to music and playing games (Open World, ARPG Games, Turnbase).</p>
-          <p>🍀 My current age: 18.6.</p>
-          <p>🍀Personality: He/Him.</p>
+          <p>🍀 My current version: 19.6.</p>
+          <p>🍀Personality: I am He/Him.</p>
       </td>
     </tr>
   </table>
