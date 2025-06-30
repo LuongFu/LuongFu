@@ -43,9 +43,15 @@
 
   ## 📞 Contact
   <p align="center">
-      <a href="https://www.facebook.com/FuHocFPT/"><img width="50"src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/facebook-icon.jpg" style="border-radius: 20%; margin: 7px;"/></a>
-      <a href="https://www.instagram.com/fu_ngu_05/"><img width="50" src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/instagram-icon.jpg" style="border-radius:20%;margin: 7px;"/></a>
-      <a href="https://www.linkedin.com/in/ph%C3%BA-l%C6%B0%C6%A1ng-minh-9ba52a369/"><img width="50" src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/linkedin-icon.jpg" style="border-radius: 20%; margin: 7px;"/></a>
+    <a href="https://www.linkedin.com/in/ph%C3%BA-l%C6%B0%C6%A1ng-minh-9ba52a369/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fangzhou001126" height="30" width="40">
+    </a>
+    <a href="https://www.facebook.com/FuHocFPT/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fang.cognosphere" height="30" width="40">
+    </a>
+    <a href="https://www.instagram.com/fu_ngu_05/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xiaofang.11" height="30" width="40">
+    </a>
   </p>
 
   ## 🤖 Github summary 
