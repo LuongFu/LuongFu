@@ -20,48 +20,15 @@
 
   ## 🔛 Club Activities🔝
 
-  <table style="width:100%; text-align:center;" table-layout: fixed;>
-    <tr>
-      <td style="width:50%;"><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo Mirai-JC.jpg" alt="Club Image" style="width: 100px;"></td>
-      <td style="width:30%;">
-        <h2>General Secretary at MiraiJC - FPT Japanese Club</h2>
-      </td>
-      <td style="width:20%">
-      <p> 2024 - 2025</p>
-      </td>
-    </tr>
-  </table>
-       <table style="width:100%; text-align:center;" table-layout: fixed;>
-    <tr>
-      <td style="width:50%;"><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo FDN.jpg" alt="Club Image" style="width: 100px;"></td>
-      <td style="width:30%;">
-        <h2>Blue belt at FDN FPT Nunchaku Club (2023-2024)</h2>
-      </td>
-       <td style="width:20%">
-      <p> 2023 - 2024</p>
-      </td>
-    </tr>
-  </table>
-    <table style="width:100%; text-align:center;" table-layout: fixed;>
-    <tr>
-      <td style="width:50%;"><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo FU-DEVER.jpg" alt="Club Image" style="width: 100px;"></td>
-      <td style="width:30%;">
-        <h2>Member at FU-DEVER - FPT Developer Club </h2>
-      </td>
-       <td style="width:20%">
-      <p> 2024 - recent</p>
-      </td>
-    </tr>
-  </table>
-<table class="equal-cols">
+<table>
   <tbody>
-    <tr><td>Table 1 - Cột 1</td><td>Cột 2</td><td>Cột 3</td></tr>
+    <tr><td><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo Mirai-JC.jpg" alt="Club Image" style="width: 100px;"></td><td><h2>General Secretary at MiraiJC - FPT Japanese Club</h2></td><td>2024 - 2025</td></tr>
   </tbody>
   <tbody>
-    <tr><td>Table 2 - Cột 1</td><td>Cột 2 dài hơn nhiều</td><td>Cột 3</td></tr>
+    <tr><td><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo FDN.jpg" alt="Club Image" style="width: 100px;"></td><td><h2>Blue belt at FDN FPT Nunchaku Club (2023-2024)</h2></td><td>2023 - 2024</td></tr>
   </tbody>
   <tbody>
-    <tr><td>Table 3 - Cột 1</td><td>Cột 2</td><td>Cột 3</td></tr>
+    <tr><td><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo FU-DEVER.jpg" alt="Club Image" style="width: 100px;"></td><td><h2>Member at FU-DEVER - FPT Developer Club </h2></td><td>2024 - recent</td></tr>
   </tbody>
 </table>
   ## ✨ Facts 
