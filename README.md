@@ -53,7 +53,17 @@
       </td>
     </tr>
   </table>
-
+<table class="equal-cols">
+  <tbody>
+    <tr><td>Table 1 - Cột 1</td><td>Cột 2</td><td>Cột 3</td></tr>
+  </tbody>
+  <tbody>
+    <tr><td>Table 2 - Cột 1</td><td>Cột 2 dài hơn nhiều</td><td>Cột 3</td></tr>
+  </tbody>
+  <tbody>
+    <tr><td>Table 3 - Cột 1</td><td>Cột 2</td><td>Cột 3</td></tr>
+  </tbody>
+</table>
   ## ✨ Facts 
   My favorite quote: "Life is not an option. It will determine who you are."
 
