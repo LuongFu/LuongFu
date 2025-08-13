@@ -20,7 +20,7 @@
 
   ## 🔛 Club Activities🔝
 
-  <table style="width:100%; text-align:center;">
+  <table style="width:100%; text-align:center;" table-layout: fixed;>
     <tr>
       <td style="width:50%;"><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo Mirai-JC.jpg" alt="Club Image" style="width: 100px;"></td>
       <td style="width:30%;">
@@ -31,7 +31,7 @@
       </td>
     </tr>
   </table>
-       <table style="width:100%; text-align:center;">
+       <table style="width:100%; text-align:center;" table-layout: fixed;>
     <tr>
       <td style="width:50%;"><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo FDN.jpg" alt="Club Image" style="width: 100px;"></td>
       <td style="width:30%;">
@@ -42,7 +42,7 @@
       </td>
     </tr>
   </table>
-    <table style="width:100%; text-align:center;">
+    <table style="width:100%; text-align:center;" table-layout: fixed;>
     <tr>
       <td style="width:50%;"><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo FU-DEVER.jpg" alt="Club Image" style="width: 100px;"></td>
       <td style="width:30%;">
