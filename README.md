@@ -20,7 +20,7 @@
 
   ## 🔛 Club Activities🔝
 
-<table>
+<table style="width:100%; justify-content:center;">
   <tbody>
     <tr><td><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo Mirai-JC.jpg" alt="Club Image" style="width: 100px;"></td><td><h2>General Secretary at MiraiJC - FPT Japanese Club</h2></td><td>2024 - 2025</td></tr>
   </tbody>
