@@ -1,7 +1,7 @@
   <div align="center">
       <img src=".github/images/background_github.png" style="width=100%; align=center" alt=Profile Image />
 <!--     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500"> -->
-      <h2 align="center"> Hello!👋 I'm Fu! Nice to meet you! ✨</h2>
+      <h2 align="center"> こにちは～👋 I'm Fu! Nice to meet you! ✨</h2>
       </a>
   </div>
 
