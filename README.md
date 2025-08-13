@@ -35,7 +35,7 @@
     <tr>
       <td style="width:50%;"><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo FDN.jpg" alt="Club Image" style="width: 100px;"></td>
       <td style="width:30%;">
-        <h2>Blue belt at FDN <br> FPT Nunchaku Club (2023-2024)</h2>
+        <h2>Blue belt at FDN FPT Nunchaku Club (2023-2024)</h2>
       </td>
        <td style="width:20%">
       <p> 2023 - 2024</p>
