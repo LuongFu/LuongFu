@@ -22,8 +22,8 @@
 
   <table style="width:100%; text-align:center;">
     <tr>
-      <td style="width:50%;"><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo Mirai-JC.jpg" alt="Club Image" style="width: 50px;"></td>
-      <td style="width:100%;">
+      <td style="width:50%;"><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo Mirai-JC.jpg" alt="Club Image" style="width: 100px;"></td>
+      <td style="width:50%;">
         <h2>General Secretary at MiraiJC - FPT Japanese Club</h2>
           <p> 2024 - 2025</p>
       </td>
@@ -31,8 +31,8 @@
   </table>
        <table style="width:100%; text-align:center;">
     <tr>
-      <td style="width:50%;"><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo FDN.jpg" alt="Club Image" style="width: 50px;"></td>
-      <td style="width:100%;">
+      <td style="width:50%;"><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo FDN.jpg" alt="Club Image" style="width: 100px;"></td>
+      <td style="width:50%;">
         <h2>Blue belt at FDN <br> FPT Nunchaku Club (2023-2024)</h2>
           <p> 2023 - 2024</p>
       </td>
@@ -40,8 +40,8 @@
   </table>
     <table style="width:100%; text-align:center;">
     <tr>
-      <td style="width:50%;"><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo FU-DEVER.jpg" alt="Club Image" style="width: 50px;"></td>
-      <td style="width:100%;">
+      <td style="width:50%;"><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo FU-DEVER.jpg" alt="Club Image" style="width: 100px;"></td>
+      <td style="width:50%;">
         <h2>Member at FU-DEVER - FPT Developer Club </h2>
           <p> 2024 - recent </p>
       </td>
