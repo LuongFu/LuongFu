@@ -12,7 +12,7 @@
       <td style="width:50%;">
         <h2>Luong Minh Phu</h2>
           <p>🍀 A programmer, software architect. Likes reading manga, listening to music and playing games (Open World, ARPG Games, Turnbase).</p>
-          <p>🍀 My current version: 20.3.</p>
+          <p>🍀 My current version: 20.6.</p>
           <p>🍀Personality: I am He/Him.</p>
       </td>
     </tr>
@@ -28,7 +28,7 @@
     <tr><td><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo FDN.jpg" alt="Club Image" style="width: 100px;"></td><td><h2>Blue belt at FDN FPT Nunchaku Club (2023-2024)</h2></td><td>2023 - 2024</td></tr>
   </tbody>
   <tbody>
-    <tr><td><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo FU-DEVER.jpg" alt="Club Image" style="width: 100px;"></td><td><h2>Member at FU-DEVER - FPT Developer Club </h2></td><td>2024 - recent</td></tr>
+    <tr><td><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo FU-DEVER.jpg" alt="Club Image" style="width: 100px;"></td><td><h2>Member at FU-DEVER - FPT Developer Club </h2></td><td>2024 - 2026</td></tr>
   </tbody>
 </table>
   ## ✨ Facts 
