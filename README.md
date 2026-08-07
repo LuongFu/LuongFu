@@ -56,9 +56,9 @@
   </p>
 
   ## 🤖 Github summary 
-  <p align="center">
+  <!--<p align="center">
     [![Profile Views](https://komarev.com/ghpvc/?username=LuongFu&color=c084fc&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/LuongFu)
-&nbsp;
+&nbsp; -->
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=LuongFu&show_icons=true&count_private=true&&theme=dracula&hide_border=true&bg_color=2c1d2c"/>
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuongFu&show_icons=true&count_private=true&&theme=dracula&hide_border=true&bg_color=2c1d2c&layout=compact"/></p>
 
