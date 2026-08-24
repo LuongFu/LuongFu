@@ -32,7 +32,7 @@
     <tr><td><img src="https://github.com/LuongFu/LuongFu/blob/main/.github/images/Logo FU-DEVER.jpg" alt="Club Image" style="width: 100px;"></td><td><h2>Member at FU-DEVER - FPT Developer Club </h2></td><td>2024 - 2026</td></tr>
   </tbody>
 </table>
-  **##  Facts **
+  ##  Facts
   My favorite quote: "To be, or not to be, that is the question." — William Shakespeare
 
   ##  Experience 
