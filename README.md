@@ -74,10 +74,8 @@
   </p>
 
   ##  Github summary
-  <p align="center">
-    [![Profile Views](https://komarev.com/ghpvc/?username=LuongFu&color=c084fc&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/LuongFu)
-&nbsp;
-  </p>
+  [![Profile Views](https://komarev.com/ghpvc/?username=LuongFu&color=c084fc&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/LuongFu)
+[![GitHub followers](https://img.shields.io/github/followers/LuongFu?style=for-the-badge&color=c084fc&label=FOLLOWERS)](https://github.com/LuongFu?tab=followers)
   <!-- <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=LuongFu&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=2c1d2c"/>
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuongFu&layout=compact&theme=dracula&hide_border=true&bg_color=2c1d2c"/>
