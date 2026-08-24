@@ -38,7 +38,7 @@
   ##  Experience 
   I have few experience in parts related to C#, Java, HTML, CSS,... <br>
 
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -54,11 +54,11 @@
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<br>
 
-  ## Language Level:
-![1f1fb_1f1f3](https://github.com/user-attachments/assets/4a7c8c45-4598-4919-802d-0d266587460b) `Vietnamese (Native)` <br>
-![1f1ec_1f1e7](https://github.com/user-attachments/assets/ccfa6929-e4cb-434a-a2a9-4ec4c151449c) `English (Commucation Comprehensive)` <br>
-![1f1ef_1f1f5](https://github.com/user-attachments/assets/5c159f38-3fd9-42ca-8177-cd9046ceda57) `Japanese (Basic Learning)` <br>
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
   ##  Contact
   <p align="center">
@@ -74,13 +74,14 @@
   </p>
 
   ##  Github summary
-  <!--<p align="center">
-    [![Profile Views](https://komarev.com/ghpvc/?username=LuongFu&color=c084fc&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/LuongFu)
-&nbsp; -->
   <p align="center">
+    [![Profile Views](https://komarev.com/ghpvc/?username=LuongFu&color=c084fc&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/LuongFu)
+&nbsp;
+  </p>
+  <!-- <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=LuongFu&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=2c1d2c"/>
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuongFu&layout=compact&theme=dracula&hide_border=true&bg_color=2c1d2c"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuongFu&theme=dracula&hide_border=true&bg_color=2c1d2c" width="90%"/>
