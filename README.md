@@ -13,7 +13,7 @@
         <h2>Luong Minh Phu</h2>
           <p> A programmer, software architect. Likes reading manga, listening to music and playing games (Honkai: Star Rail, Valorant, Palworld, Counter Strike 2).</p>
           <!-- <p> My current version: 20.8.</p> -->
-          <p> My current version: <!--START_VERSION-->20.8<!--END_VERSION-->.</p>
+          <p> My current version: <!--START_VERSION-->20.9<!--END_VERSION-->.</p>
           <p> Personality: I am He/Him/Potato.</p>
       </td>
     </tr>
